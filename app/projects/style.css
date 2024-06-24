@@ -1,0 +1,10 @@
+.lists {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+.projectDesc {
+  margin-top: 10%;
+  text-align: center;
+}
